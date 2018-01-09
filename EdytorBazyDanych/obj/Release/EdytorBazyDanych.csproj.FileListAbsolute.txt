@@ -1,0 +1,17 @@
+c:\users\skyline2000\documents\visual studio 2015\Projects\EdytorBazyDanych\EdytorBazyDanych\bin\Release\EdytorBazyDanych.exe.config
+c:\users\skyline2000\documents\visual studio 2015\Projects\EdytorBazyDanych\EdytorBazyDanych\bin\Release\EdytorBazyDanych.exe
+c:\users\skyline2000\documents\visual studio 2015\Projects\EdytorBazyDanych\EdytorBazyDanych\bin\Release\EdytorBazyDanych.pdb
+c:\users\skyline2000\documents\visual studio 2015\Projects\EdytorBazyDanych\EdytorBazyDanych\obj\Release\MainWindow.g.cs
+c:\users\skyline2000\documents\visual studio 2015\Projects\EdytorBazyDanych\EdytorBazyDanych\obj\Release\App.g.cs
+c:\users\skyline2000\documents\visual studio 2015\Projects\EdytorBazyDanych\EdytorBazyDanych\obj\Release\EdytorBazyDanych_MarkupCompile.cache
+c:\users\skyline2000\documents\visual studio 2015\Projects\EdytorBazyDanych\EdytorBazyDanych\obj\Release\EdytorBazyDanych_MarkupCompile.lref
+c:\users\skyline2000\documents\visual studio 2015\Projects\EdytorBazyDanych\EdytorBazyDanych\obj\Release\MainWindow.baml
+c:\users\skyline2000\documents\visual studio 2015\Projects\EdytorBazyDanych\EdytorBazyDanych\obj\Release\EdytorBazyDanych.g.resources
+c:\users\skyline2000\documents\visual studio 2015\Projects\EdytorBazyDanych\EdytorBazyDanych\obj\Release\EdytorBazyDanych.Properties.Resources.resources
+c:\users\skyline2000\documents\visual studio 2015\Projects\EdytorBazyDanych\EdytorBazyDanych\obj\Release\EdytorBazyDanych.csproj.GenerateResource.Cache
+c:\users\skyline2000\documents\visual studio 2015\Projects\EdytorBazyDanych\EdytorBazyDanych\obj\Release\EdytorBazyDanych.exe
+c:\users\skyline2000\documents\visual studio 2015\Projects\EdytorBazyDanych\EdytorBazyDanych\obj\Release\EdytorBazyDanych.pdb
+C:\Users\Skyline2000\Documents\Visual Studio 2015\Projects\EdytorBazyDanych\EdytorBazyDanych\bin\Release\MySql.Data.dll
+C:\Users\Skyline2000\Documents\Visual Studio 2015\Projects\EdytorBazyDanych\EdytorBazyDanych\obj\Release\EdytorBazyDanych.csprojResolveAssemblyReference.cache
+C:\Users\Skyline2000\documents\visual studio 2015\Projects\EdytorBazyDanych\EdytorBazyDanych\obj\Release\AddCountry.g.cs
+C:\Users\Skyline2000\documents\visual studio 2015\Projects\EdytorBazyDanych\EdytorBazyDanych\obj\Release\AddCountry.baml
